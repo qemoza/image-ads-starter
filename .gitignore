@@ -1,0 +1,7 @@
+renders/
+*.env
+.env
+swipes/
+faces/
+__pycache__/
+.DS_Store

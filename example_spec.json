@@ -1,0 +1,23 @@
+{
+  "source": "swipes/proven_ad.jpg",
+  "face": "faces/founder.png",
+  "out": "renders/ad01.png",
+  "aspect": "4:5 portrait, 1024 by 1280",
+  "keep": [
+    "the exact crop and framing of the source",
+    "the position, size and font of every text block",
+    "the colour grade, the background, the props on the desk",
+    "the rounded pill button at the bottom and its colour",
+    "the small caption chip in the top left corner"
+  ],
+  "change": [
+    "replace the person with the person from IMAGE 2, same pose, same scale, lit by the room",
+    "headline text becomes: Hire no one. Ship every week.",
+    "sub headline text becomes: One agent writes the first draft. You send.",
+    "button text becomes: See how it works"
+  ],
+  "ban": [
+    "the laptop screen must show only soft blurred shapes, no readable words or numbers",
+    "no logo on the mug"
+  ]
+}
