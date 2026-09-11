@@ -147,9 +147,9 @@ give you two or three that are right, and picking is cheap. So:
   `ad01_v10.png`.
 - Change one thing between variants if you want: the headline, the face, the
   crop. Keep everything else fixed so you can see what moved.
-- Get a green light on the batch size before spending. Renders cost about 15
-  cents each on the premium model, so ten ads at ten variants is about 15
-  dollars. Say the number before you run it.
+- Get a green light on the batch size before spending. A render costs cents
+  on the paid models and prices move every month, so work out what ten ads at
+  ten variants costs today. Say the number before you run it.
 - Never silently re-roll. If the first ten are all wrong, the spec is wrong.
   Fix the spec.
 

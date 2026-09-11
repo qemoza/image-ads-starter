@@ -32,7 +32,7 @@ The picture maker runs on [OpenRouter](https://openrouter.ai). One key gives you
 4. Go to Keys and make one. Copy it.
 5. Give it to Claude when it asks. It writes it into a `.env` file. The key never goes in the code.
 
-A render costs about 15 cents on the premium model. Ten dollars is about 65 renders.
+A render costs cents on the paid models. Prices move every month, so check the model page on OpenRouter before you budget a batch.
 
 ## How to run it
 
