@@ -1,5 +1,7 @@
 # Image Ads Starter. Make image ads with AI, the whole flow
 
+**Written walkthrough:** [How I Make Image Ads With AI](https://www.qemoza.ai/blog/how-to-make-image-ads-with-ai) on the Qemoza blog.
+
 You give it research and a headline. It finds a proven ad format, puts your photo and your words inside that exact frame, makes ten versions, and puts them all on one page for you to keep, edit or kill. Then you ship the keepers.
 
 From this video: [How I Make Image Ads With AI: The Whole Flow](https://www.youtube.com/@Hamzaouladd)
